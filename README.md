@@ -1,6 +1,6 @@
 # study-rl
 
-My study history of Reinforcement Learning.
+My study record of Reinforcement Learning.
 
 ## References
 
